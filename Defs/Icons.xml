@@ -172,25 +172,25 @@
 	<RR_PawnBadge.BadgeDef>
 		<defName>Mechanitor</defName>
 		<label>Mechanitor</label>
-		<description>Social - Mechanitor</description>
+		<description>Tech - Mechanitor</description>
 		<icon>PawnBadge/T_Mechanitor</icon>
 	</RR_PawnBadge.BadgeDef>
 	<RR_PawnBadge.BadgeDef>
 		<defName>Research</defName>
 		<label>Research</label>
-		<description>Social - Research</description>
+		<description>Tech - Research</description>
 		<icon>PawnBadge/T_Research</icon>
 	</RR_PawnBadge.BadgeDef>
 	<RR_PawnBadge.BadgeDef>
 		<defName>Surgeon</defName>
 		<label>Surgeon</label>
-		<description>Social - Surgeon</description>
+		<description>Tech - Surgeon</description>
 		<icon>PawnBadge/T_Surgeon</icon>
 	</RR_PawnBadge.BadgeDef>
 	<RR_PawnBadge.BadgeDef>
 		<defName>Teach</defName>
 		<label>Teach</label>
-		<description>Social - Teach</description>
+		<description>Tech - Teach</description>
 		<icon>PawnBadge/T_Teach</icon>
 	</RR_PawnBadge.BadgeDef>
 
