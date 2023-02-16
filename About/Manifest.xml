@@ -1,5 +1,5 @@
 <Manifest>
-  <identifier>spadesmaster.RW_PawnBadgeHD</identifier>
+  <identifier>spadesmaster.Rimworld.PawnBadgeHD</identifier>
   <!--  Soapbox Speech:
         Using date of release as version number communicates more useful information 
         than the v1.1.001 style version numbering, and dispenses with the waste of time that is
@@ -9,6 +9,6 @@
   <version>2023.2.15</version>
 
   <!-- These links wire up the new version available alert in Mod Manager -->
-  <manifestUri>https://raw.githubusercontent.com/spadesmaster/RW_PawnBadgeHD/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/spadesmaster/RW_PawnBadgeHD/Preleases/latest</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/spadesmaster/Rimworld.PawnBadgeHD/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/spadesmaster/Rimworld.PawnBadgeHD/Preleases/latest</downloadUri>
 </Manifest>
