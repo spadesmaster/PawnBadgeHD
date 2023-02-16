@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Pawn Badge - Bigredz HD Icons</name>
   <author>spadesmaster</author>
-  <packageId>spadesmaster.RW_PawnBadgeHD</packageId>
+  <packageId>spadesmaster.Rimworld.PawnBadgeHD</packageId>
 
   <supportedVersions>
     <!-- used by version check warning -->
