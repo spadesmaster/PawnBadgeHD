@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+        <!-- Workers - Orange -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Builder</defName>
+		<label>Builder</label>
+		<description>Worker - Builder</description>
+		<icon>PawnBadge/B_Build</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Cook</defName>
+		<label>Cook</label>
+		<description>Worker - Cook</description>
+		<icon>PawnBadge/B_Cook</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Mine</defName>
+		<label>Mine</label>
+		<description>Worker - Miner</description>
+		<icon>PawnBadge/B_Mine</icon>
+	</RR_PawnBadge.BadgeDef>
+
+        <!-- Crafters - Pink -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Art</defName>
+		<label>Art</label>
+		<description>Crafter - Artist</description>
+		<icon>PawnBadge/C_Art</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Craft</defName>
+		<label>Craft</label>
+		<description>Crafter - Crafter</description>
+		<icon>PawnBadge/C_Craft</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Smith</defName>
+		<label>Smith</label>
+		<description>Crafter - Smith</description>
+		<icon>PawnBadge/C_Smith</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Tailor</defName>
+		<label>Tailor</label>
+		<description>Crafter - Tailor</description>
+		<icon>PawnBadge/C_Tailor</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+        <!-- Combat / Fight - Red -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Archer</defName>
+		<label>Archer</label>
+		<description>Combat - Archer</description>
+		<icon>PawnBadge/F_Archer</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Brawler</defName>
+		<label>Brawler</label>
+		<description>Combat - Brawler</description>
+		<icon>PawnBadge/F_Brawler</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Medic</defName>
+		<label>Medic</label>
+		<description>Combat - Medic</description>
+		<icon>PawnBadge/F_Medic</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Melee</defName>
+		<label>Melee</label>
+		<description>Combat - Melee</description>
+		<icon>PawnBadge/F_Melee</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Shadow</defName>
+		<label>Shadow</label>
+		<description>Combat - Shadow</description>
+		<icon>PawnBadge/F_Shadow</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Shoot</defName>
+		<label>Shoot</label>
+		<description>Combat - Shoot</description>
+		<icon>PawnBadge/F_Shoot</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Tank</defName>
+		<label>Tank</label>
+		<description>Combat - Tank</description>
+		<icon>PawnBadge/F_Tank</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+        <!-- Gather - Green -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Animal</defName>
+		<label>Animal</label>
+		<description>Gather - Animal</description>
+		<icon>PawnBadge/G_Animal</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Fishing</defName>
+		<label>Fishing</label>
+		<description>Gather - Fishing</description>
+		<icon>PawnBadge/G_Fishing</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Harvest</defName>
+		<label>Harvest</label>
+		<description>Gather - Harvest</description>
+		<icon>PawnBadge/G_Harvest</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Plant</defName>
+		<label>Plant</label>
+		<description>Gather - Plant</description>
+		<icon>PawnBadge/G_Plant</icon>
+	</RR_PawnBadge.BadgeDef>
+
+        <!-- Labor - Yellow -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Clean</defName>
+		<label>Clean</label>
+		<description>Labor - Clean</description>
+		<icon>PawnBadge/L_Clean</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Firefight</defName>
+		<label>Firefight</label>
+		<description>Labor - Firefight</description>
+		<icon>PawnBadge/L_Firefight</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Haul</defName>
+		<label>Haul</label>
+		<description>Labor - Haul</description>
+		<icon>PawnBadge/L_Haul</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Recycle</defName>
+		<label>Recycle</label>
+		<description>Labor - Recycle</description>
+		<icon>PawnBadge/L_Recycle</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Stone</defName>
+		<label>Stone</label>
+		<description>Labor - Stone</description>
+		<icon>PawnBadge/L_Stone</icon>
+	</RR_PawnBadge.BadgeDef>
+
+        <!-- Social - Dark Blue -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Entertain</defName>
+		<label>Entertain</label>
+		<description>Social - Entertain</description>
+		<icon>PawnBadge/S_Entertain</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Trade</defName>
+		<label>Trade</label>
+		<description>Social - Trade</description>
+		<icon>PawnBadge/S_Trade</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Warden</defName>
+		<label>Warden</label>
+		<description>Social - Warden</description>
+		<icon>PawnBadge/S_Warden</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<!-- Tech - Baby Blue -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Mechanitor</defName>
+		<label>Mechanitor</label>
+		<description>Social - Mechanitor</description>
+		<icon>PawnBadge/L_Mechanitor</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Research</defName>
+		<label>Research</label>
+		<description>Social - Research</description>
+		<icon>PawnBadge/L_Research</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Surgeon</defName>
+		<label>Surgeon</label>
+		<description>Social - Surgeon</description>
+		<icon>PawnBadge/L_Surgeon</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Teach</defName>
+		<label>Teach</label>
+		<description>Social - Teach</description>
+		<icon>PawnBadge/L_Teach</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<!-- Magic - Purple -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Arcane</defName>
+		<label>Arcane</label>
+		<description>Magic - Arcane</description>
+		<icon>PawnBadge/X_Arcane</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Fire</defName>
+		<label>Fire</label>
+		<description>Magic - Fire</description>
+		<icon>PawnBadge/X_Fire</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Ice</defName>
+		<label>Ice</label>
+		<description>Magic - Ice</description>
+		<icon>PawnBadge/X_Ice</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Lightning</defName>
+		<label>Lightning</label>
+		<description>Magic - Lightning</description>
+		<icon>PawnBadge/X_Lightning</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Mage</defName>
+		<label>Mage</label>
+		<description>Magic - Mage</description>
+		<icon>PawnBadge/X_Mage</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Psycast</defName>
+		<label>Psycast</label>
+		<description>Magic - Psycast</description>
+		<icon>PawnBadge/X_Psycast</icon>
+	</RR_PawnBadge.BadgeDef>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Teleport</defName>
+		<label>Teleport</label>
+		<description>Magic - Teleport</description>
+		<icon>PawnBadge/X_Teleport</icon>
+	</RR_PawnBadge.BadgeDef>
+	
+</Defs>
